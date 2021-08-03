@@ -1,0 +1,17 @@
+#Hecho por fernanACM.
+#02/08/21: 3:50 
+#Plugin hecho para ProyectoX.
+
+#JoinUI Form.
+JoinUI-Title: "§bJoinUI"
+JoinUI-Content: "\n§fEditar en Config.yml\n§b"
+JoinUI-Button: "§bJoin\n§fClic para continuar"
+Img-Type: 0
+Img-Url: "textures/ui/controller_glyph_color"
+
+#Title Form.
+Join-Title: "§l§bJoinUI"
+Join-SubTitle: "Editar en Config.yml"
+
+#Config
+Effect-Value: 26
