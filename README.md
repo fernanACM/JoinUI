@@ -30,7 +30,7 @@ Simple custom welcome with user interface system for PocketMine-MP
 
 ### Contacto: 
 * Discord: fernanACM#5078
-* [INVITACION](https://discord.com/invite/YyE9XFckqb)
+* [Discord](https://discord.com/invite/YyE9XFckqb)
 
 * [GitHub](https://github.com/fernanACM)
 * [Poggit](https://poggit.pmmp.io/ci/fernanACM)
