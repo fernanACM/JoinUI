@@ -1,9 +1,3 @@
-[![](https://poggit.pmmp.io/shield.state/JoinACM)](https://poggit.pmmp.io/p/JoinACM)
-<a href="https://poggit.pmmp.io/p/JoinACM"><img src="https://poggit.pmmp.io/shield.state/JoinACM"></a>
-
-[![](https://poggit.pmmp.io/shield.api/JoinACM)](https://poggit.pmmp.io/p/JoinACM)
-<a href="https://poggit.pmmp.io/p/JoinACM"><img src="https://poggit.pmmp.io/shield.api/JoinACM"></a>
-
 # JoinACM
 
 Simple Personalized Welcome with UI system
