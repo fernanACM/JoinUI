@@ -13,9 +13,9 @@ Simple Personalized Welcome with UI system
 
 * To download a space of the text (acts as ENTER), you must put "\n". 
 ***
-###Dependencies: 
-**
-This plugin requires a single dependency which is FormAPI**
+### Dependencies: 
+
+**This plugin requires a single dependency which is FormAPI**
 
 * [FormAPI](https://www.mediafire.com/file/m81jntm7qop56is/FormAPI.phar/file)
 
