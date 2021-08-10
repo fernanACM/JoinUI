@@ -1,17 +1,17 @@
-#Hecho por fernanACM.
+#By fernanACM.
 #02/08/21: 3:50 
 #Plugin hecho para ProyectoX.
 
 #JoinUI Form.
-JoinUI-Title: "§bJoinUI"
-JoinUI-Content: "\n§fEditar en Config.yml\n§b"
+JoinUI-Title: "§cJoinACM"
+JoinUI-Content: "\n§aWelcome friend to JoinACM v1\n§b"
 JoinUI-Button: "§bJoin\n§fClic para continuar"
 Img-Type: 0
 Img-Url: "textures/ui/controller_glyph_color"
 
 #Title Form.
-Join-Title: "§l§bJoinUI"
-Join-SubTitle: "Editar en Config.yml"
+Join-Title: "§l§cJoinACM"
+Join-SubTitle: "Welcome friend to JoinACM v1"
 
 #Config
 Effect-Value: 26
