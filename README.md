@@ -1,24 +1,31 @@
+[![](https://poggit.pmmp.io/shield.state/JoinACM)](https://poggit.pmmp.io/p/JoinACM)
+<a href="https://poggit.pmmp.io/p/JoinACM"><img src="https://poggit.pmmp.io/shield.state/JoinACM"></a>
+
+[![](https://poggit.pmmp.io/shield.api/JoinACM)](https://poggit.pmmp.io/p/JoinACM)
+<a href="https://poggit.pmmp.io/p/JoinACM"><img src="https://poggit.pmmp.io/shield.api/JoinACM"></a>
+
 # JoinACM
-JoinUI para minecraft pe 1.17.10
+
+Simple Personalized Welcome with UI system
 
 ***
 
-## Caracteristicas:
-* *Sistema UI* Este plugin agrega el un UI de bienvenida personalizable a traves de la *plugin_data* **config.yml**
-* *FormAPI* Requiere como dependencia el **FormAPI** para que no surjan errores.
+## Features:
+* Sistema UI This plugin adds a customizable welcome UI through the plugin_data* **config.yml**
+* FormAPI It requires the **FormAPI** as a dependency so that errors do not appear.
+
+* With JoinACM you can have a better experience with the customization of your server. 
+  You can edit the text more easily, and change the color to your liking.
+
+* To download a space of the text (acts as ENTER), you must put "\n". 
 ***
-### Dependencias: 
-**Este plugin requiere de una sola dependencia que es FormAPI**
+###Dependencies: 
+**
+This plugin requires a single dependency which is FormAPI**
 
 * [FormAPI](https://www.mediafire.com/file/m81jntm7qop56is/FormAPI.phar/file)
 
 ### Contacto: 
-Me pueden contactar a traves de discord, GitHub o Poggit. Para saber el contenido que hago me puedes seguir en YouTube y tambien 
-en mi Blog :)
-
-* [YouTube](https://www.youtube.com/channel/UC-M5iTrCItYQBg5GMuX5ySw)
-* [Blog](https://pocketmine-acm.blogspot.com/)
-
 * Discord: fernanACM#5078
 * [INVITACION](https://discord.com/invite/YyE9XFckqb)
 
