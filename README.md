@@ -4,7 +4,7 @@ Simple custom welcome with user interface system for PocketMine-MP
 
 ***
 
-## Features:
+## Features
 * Sistema UI This plugin adds a customizable welcome UI through the plugin_data **config.yml**
 
 * With JoinACM you can have a better experience with the customization of your server. 
@@ -21,7 +21,7 @@ Simple custom welcome with user interface system for PocketMine-MP
 
 * Customizable UI system in welcome texts
 ***
-### Contacto: 
+### Contacto
 * Discord: fernanACM#5078
 * [Discord](https://discord.com/invite/YyE9XFckqb)
 * [GitHub](https://github.com/fernanACM)
