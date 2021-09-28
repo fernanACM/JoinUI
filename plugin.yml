@@ -1,6 +1,9 @@
 name: JoinACM
 main: ACM\JoinACM\Main
 api: 3.22.0
+mcpe-protocol: 
+- 448
+- 465
 version: 1.0
 author: fernanACM
 website: https://github.com/fernanACM/JoinACM
